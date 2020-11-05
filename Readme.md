@@ -6,3 +6,6 @@ Steps to follow:
 3 - now go to parameters_linkedin.py and put your credentials
 4 - the final step is to run linkedin.py file
 5 - for more assitance with any issues please leave comments.
+
+P.S.
+For Google Scraping, is just prototype to get familiar with Selenium, so it just scrap google result url for the letter q.
