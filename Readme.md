@@ -13,5 +13,6 @@ Steps to follow:
 
 5 - for more assitance with any issues please leave comments.
 
+
 P.S.
 For Google Scraping, is just prototype to get familiar with Selenium, so it just scrap google result url for the letter q.
