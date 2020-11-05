@@ -1,4 +1,4 @@
-Scrap CEO Linkedin profiles using Python and Selenese. 
+Scrap CEO Linkedin profiles using Python and Selenium.
 
 Steps to follow:
 1 - first put your the words that you want to find result about them in linkedin in the parameters_google.py file
