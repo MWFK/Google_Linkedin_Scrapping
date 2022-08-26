@@ -1,4 +1,4 @@
-Scrap Linkedin profiles using Python and Selenium.
+Scrap Linkedin profiles using Python and Selenium (updates might needed)
 
 
 Steps to follow:
